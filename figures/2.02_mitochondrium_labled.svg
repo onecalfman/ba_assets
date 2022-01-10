@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1309.9327mm"
+   height="476.41147mm"
+   viewBox="0 0 1309.9327 476.41147"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="mitochondrium_labled.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#a9a9a9"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="1000mm"
+     inkscape:zoom="0.23616074"
+     inkscape:cx="2286.5782"
+     inkscape:cy="1056.4838"
+     inkscape:window-width="2461"
+     inkscape:window-height="2073"
+     inkscape:window-x="25"
+     inkscape:window-y="52"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     inkscape:object-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-global="true">
+    <sodipodi:guide
+       position="818.65305,114.85579"
+       orientation="1,0"
+       id="guide847" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect11736"
+       is_visible="true"
+       lpeversion="1"
+       pattern="m 264.67634,-6.3652127 h 1.0154"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       hide_knot="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect11734"
+       is_visible="true"
+       lpeversion="1"
+       pattern="m 279.29984,0 h 1"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       hide_knot="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1449"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1166"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="roughen"
+       id="path-effect1030"
+       is_visible="true"
+       lpeversion="1.1"
+       method="size"
+       max_segment_size="9"
+       segments="13"
+       displace_x="7.52;1546636048"
+       displace_y="8.94;1"
+       global_randomize="1;1"
+       handles="along"
+       shift_nodes="true"
+       fixed_displacement="false"
+       spray_tool_friendly="false" />
+    <inkscape:path-effect
+       effect="knot"
+       id="path-effect1028"
+       is_visible="true"
+       lpeversion="1"
+       switcher_size="15"
+       interruption_width="3"
+       prop_to_stroke_width="true"
+       add_stroke_width="inkscape_1.0_and_up"
+       both="false"
+       inverse_width="false"
+       add_other_stroke_width="inkscape_1.0_and_up"
+       crossing_points_vector="" />
+    <inkscape:path-effect
+       effect="gears"
+       id="path-effect1026"
+       is_visible="true"
+       lpeversion="1"
+       teeth="95"
+       phi="4.3"
+       min_radius="3" />
+    <inkscape:path-effect
+       effect="rough_hatches"
+       id="path-effect1024"
+       is_visible="true"
+       lpeversion="1"
+       direction="507.65097,409.55096 , 169.64311,0"
+       dist_rdm="75;1"
+       growth="0"
+       do_bend="true"
+       bender="507.65097,414.55096 , 5,0"
+       bottom_edge_variation="42.641869;1"
+       top_edge_variation="42.641869;1"
+       bottom_tgt_variation="0;1"
+       top_tgt_variation="0;1"
+       scale_bf="1"
+       scale_bb="1"
+       scale_tf="1"
+       scale_tb="1"
+       top_smth_variation="0;1"
+       bottom_smth_variation="0;1"
+       fat_output="true"
+       stroke_width_top="1"
+       stroke_width_bottom="1"
+       front_thickness="1"
+       back_thickness="0.25" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1022"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect856"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect28501"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-351.83906,-203.134)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;line-height:10;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="1170.4921"
+       y="668.73535"
+       id="text21628"><tspan
+         sodipodi:role="line"
+         id="tspan21626"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="1170.4921"
+         y="668.73535">Matrix</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60.0001px;line-height:10;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="1165.2721"
+       y="398.40414"
+       id="text22082"><tspan
+         sodipodi:role="line"
+         id="tspan22080"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="1165.2721"
+         y="398.40414">Intermembranraum</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60.0001px;line-height:10;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="1165.2721"
+       y="534.10974"
+       id="text22463"><tspan
+         sodipodi:role="line"
+         id="tspan22461"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="1165.2721"
+         y="534.10974">Innere Membran</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60.0001px;line-height:10;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="1170.4921"
+       y="262.69852"
+       id="text22990"><tspan
+         sodipodi:role="line"
+         id="tspan22988"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="1170.4921"
+         y="262.69852">Äußere Membran</tspan></text>
+    <circle
+       id="path24849"
+       style="fill:#000000;stroke:none;stroke-width:0.264583"
+       cx="896.36279"
+       cy="482.56885"
+       r="0.39687499" />
+    <g
+       id="g940"
+       transform="translate(-448.88196,173.07526)"
+       style="stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none">
+      <path
+         style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 892.40069,93.690894 c -118.33662,84.320536 -118.33662,257.737866 0.002,344.446426 118.33901,86.70856 355.00731,86.70856 473.34371,2.38657 118.3364,-84.32199 118.3364,-252.95944 0,-339.66828 C 1247.4057,14.14677 1010.7373,9.3703581 892.40069,93.690894 Z"
+         id="path28497"
+         inkscape:original-d="m 774.06407,4.5938488 c 2.5e-4,173.4175812 2.5e-4,346.8349112 0,520.2520312 236.67803,0 473.34633,0 710.01913,0 2e-4,-168.64398 2e-4,-337.28143 0,-505.922515 C 1247.4057,14.147047 1010.7373,9.3706245 774.06407,4.5938488 Z"
+         inkscape:path-effect="#path-effect28501" />
+      <path
+         style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 853.78004,260.09602 v 93.00412 c 0.23068,34.81861 54.54613,37.06008 57.08874,0 v -63.62936 c 0.31497,-37.90682 47.95334,-31.59358 44.28297,-1.60378 v 124.24224 c -1.36237,58.14224 92.64435,73.015 95.78495,0 v -122.4103 c 0.8607,-24.66086 33.568,-32.12707 33.7601,0.9956 v 140.18708 c -1.9731,68.83021 100.7648,67.44399 96.7849,0 V 316.00759 c 0.2837,-33.44342 68.0967,-33.224 67.9416,-1.20781 v 111.04036 c -1.5701,40.50275 73.14,44.722 73.0017,0 v -64.39952 c -1.1367,-20.78447 26.4914,-37.90445 26.3379,0 v 22.91619 c -0.5806,45.2461 48.2082,33.39507 45.7325,0 -0.3404,-24.73994 0,-193.47305 0,-193.47305 0.7363,-40.73688 -60.9736,-43.59817 -58.9864,0 V 262.712 c 1.4811,34.97725 -63.1521,39.79907 -63.2747,0 V 99.246675 c -0.3025,-37.582611 -60.4283,-35.821958 -60.4735,0 v 77.881915 c -0.3245,46.98982 -92.0498,56.37629 -91.3915,9.08748 V 89.957758 c 1.6093,-46.477405 -80.4088,-44.560501 -81.5006,1.058906 l -0.3646,133.753526 c -0.1537,40.188 -53.498,32.83525 -51.68747,0 V 108.66806 c 2.24884,-44.716501 -53.54355,-27.947155 -52.04845,-0.0924 v 117.38348 c -2.80983,35.28577 -53.51181,34.66278 -52.30444,0 V 170.3708 c 0.72153,-37.97176 -27.2215,-32.99979 -28.4939,-1.10698 v 90.83214 z"
+         id="path28672"
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccc" />
+    </g>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:1.9;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stop-color:#000000"
+       d="m 972.19534,402.00809 172.22106,-23.7932"
+       id="path4285"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:1.9;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stop-color:#000000"
+       d="m 945.46383,485.35408 190.09287,26.04403"
+       id="path4287" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:1.9;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stop-color:#000000"
+       d="m 836.89182,530.39942 308.06388,115.0388"
+       id="path4289" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:1.9;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stop-color:#000000"
+       d="M 961.70983,317.37767 1146.192,244.68231"
+       id="path4512" />
+  </g>
+</svg>
